@@ -1,0 +1,207 @@
+
+body {
+    background-color: green;
+    
+    background-image:  url("images/tree.jpg");
+    background-size:     cover;                      
+    background-repeat:   repeat;
+    background-position:  center;
+    background-attachment: scroll;
+      
+  }
+  
+h1   {
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 90px; 
+    font-style: normal;
+    font-variant: normal; 
+    font-weight: 700; 
+    line-height: 90px;
+    color: yellow;
+    
+    }
+
+em  {
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 120px; 
+    font-style: normal;
+    font-variant: normal; 
+    font-weight: 700; 
+    line-height: 120px;
+    color: green;
+    }
+
+span   {
+    font-family:  'Ibarra Real Nova', serif;
+    font-size: 40px; 
+    font-style: italic;
+    font-variant: normal; 
+    font-weight: 700; 
+    line-height: 40px;
+    color: orange;
+}
+
+h2  {
+    font-family: 'Ibarra Real Nova', serif;
+    font-style: normal;
+    font-variant: normal; 
+    font-weight: 700; 
+    line-height: 40px;
+    color: red;
+    }
+
+h3   {
+  font-family: 'Ibarra Real Nova', serif;
+  font-size: 20px; 
+  font-style: normal;
+  font-variant: normal; 
+  font-weight: 300;
+  position: center;  
+  line-height: 20px;
+  color: orange;
+  
+}
+
+h4  {
+font-family: 'Ibarra Real Nova', serif;
+  font-size: 15px; 
+  font-style: normal;
+  font-variant: normal; 
+  font-weight: 300; 
+  line-height: 15px;
+  color: red;
+  
+}
+
+p  {
+    font-family:'Ibarra Real Nova', serif;
+    font-size: 30px; 
+    font-style: normal;
+    font-variant: normal; 
+    font-weight: 300; 
+    line-height: 30px;
+    color: white;
+    
+}
+
+li {
+    display: inline;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    background-color: green;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    font-family:'Ibarra Real Nova', serif;
+    font-style: bold;
+    font-weight: 100;  
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+ li a:hover {
+    background-color: white;
+    color: red;
+    
+  }
+
+footer  {
+    color: white;
+    font-size: 30px;
+    line-height: 30px 
+}
+
+
+section  {
+  position: absolute;
+    z-index:2;
+    width: 100%;
+    
+   
+}
+
+form  {
+    font-size: 10px; 
+    font-style: bold;
+    font-variant: normal; 
+    font-weight: 300; 
+    line-height: 10px;
+    color: blue;
+   
+}  
+
+
+       
+    .column1 {
+     
+      width: 480px; height: 270px;
+      background-image: url("");
+      background-size:     contain;
+      font-size: 20px; 
+    font-style: italic;
+    font-variant: normal; 
+    font-weight: 300; 
+    line-height: 20px;
+    color: blue;
+    
+      }
+    
+      .column2 {
+     
+        width: 480px; height: 270px;
+        
+        background-image: url("");
+        background-size:     contain;
+        font-size: 20px; 
+      font-style: italic;
+      font-variant: normal; 
+      font-weight: 300; 
+      line-height: 20px;
+      color: blue;
+      
+        }
+    
+        .column3 {
+     
+          width: 480px; height: 270px;
+          /
+          background-image: url("");
+          background-size:     contain;
+          font-size: 20px; 
+        font-style: italic;
+        font-variant: normal; 
+        font-weight: 300; 
+        line-height: 20px;
+        color: blue;
+        
+          }
+          
+          a  {
+            font-family:'Ibarra Real Nova', serif;
+            font-size: 15px;
+            font-weight: 200;
+            line-height: 15px;
+            color: white;
+            
+          }
+          
+          h5   {
+            opacity: 0;
+          }
+        
+   
