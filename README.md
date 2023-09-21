@@ -13,6 +13,34 @@ Practical tips and guidelines for a sustainable lifestyle.
 Integration of multimedia elements (images, videos) to engage and educate visitors.
 Implementation of a responsive design for optimal viewing on various devices.
 
+**Project 2**
+**Title: "Key Collector Maze Game"**
+
+**Summary:****
+The "Key Collector Maze Game" is a simple 2D array-based game implemented in the C programming language. The objective of the game is for the player-controlled character to collect three keys scattered throughout a maze and then exit the maze to win.
+
+**Game Mechanics:**
+
+Maze Generation: The game generates a random maze represented as a 2D array. The maze consists of walls, open paths, keys, and an exit.
+
+Player Character: The player controls a character (usually represented by a symbol like 'P') that starts at the beginning of the maze.
+
+Keys: There are three keys (represented by symbols like 'K') randomly placed within the maze. The character must collect all three keys to proceed.
+
+Movement: The player can move the character in four directions: up, down, left, and right. The character cannot move through walls (represented by '#' in the maze).
+
+Goal: The goal of the game is to collect all three keys and then reach the exit (represented by 'E') to win.
+
+Win Condition: The game checks if the character has collected all three keys and reached the exit. If both conditions are met, the player wins the game.
+
+Lose Condition: If the character attempts to move into a wall or fails to collect all three keys before reaching the exit, the player loses the game.
+
+User Interaction: The player interacts with the game through keyboard input to navigate the character.
+
+Visual Feedback: The game provides visual feedback by updating the maze display after each move, indicating the character's position and the collected keys.
+
+Restart Option: After winning or losing, the player can choose to restart the game to try again.
+
 
 **Year 2 
 Project Summary: Staff Record Management Application**
