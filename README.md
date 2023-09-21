@@ -12,7 +12,7 @@ Informational content about various environmental issues.
 Practical tips and guidelines for a sustainable lifestyle.
 Integration of multimedia elements (images, videos) to engage and educate visitors.
 Implementation of a responsive design for optimal viewing on various devices.
-
+<------------------------------------------------------------------------------------------------------------------------------------------------------------->
 **Project 2**
 **Title: "Key Collector Maze Game"**
 
@@ -41,7 +41,7 @@ Visual Feedback: The game provides visual feedback by updating the maze display 
 
 Restart Option: After winning or losing, the player can choose to restart the game to try again.
 
-
+<------------------------------------------------------------------------------------------------------------------------------------------------------------->
 **Year 2 
 Project Summary: Staff Record Management Application**
 
@@ -75,6 +75,7 @@ MVC Pattern: Followed the Model-View-Controller
 JUnit Testing: Wrote JUnit test cases
 
 Documentation: Documented the project using JavaDoc, generating comprehensive JavaDoc documentation.
+<------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 **Project 2 Year 2**
 **Band Member Profiles:**
