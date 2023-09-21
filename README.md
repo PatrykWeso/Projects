@@ -51,7 +51,8 @@ Documentation: Documented the project using JavaDoc, generating comprehensive Ja
 **Project 2 Year 2**
 **Band Member Profiles:**
 
-Users can access detailed profiles of all five band members, fostering a personal connection with the band.
+**Users can access detailed profiles of all five band members, fostering a personal connection with the band.**
+
 **Merchandise Catalog:**
 Users have the convenience of browsing the entire range of band merchandise, with access to product descriptions, images, and prices.
 
