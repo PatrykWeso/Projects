@@ -67,7 +67,7 @@ Remove existing staff members from the database.
 Edit staff member details (except salary).
 Provide salary raises based on staff type.
 Search for specific staff members and display their information.
-Display staff members earning more than €50,000 per year.
+Display staff members earning more than a certain amount per year.
 Display staff members sorted by Name or Employee Start Date.
 Quit the application.
 
